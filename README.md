@@ -1,4 +1,4 @@
-https://github.com/saurabhsingh3786/saurabhsingh3786/blob/main/Blue%20and%20Pink%20Professional%20Business%20Strategy%20Presentation%20(1).pdf
+![logo](https://github.com/saurabhsingh3786/saurabhsingh3786/blob/main/Blue%20and%20Pink%20Professional%20Business%20Strategy%20Presentation%20(1).pdf)
 
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">A passionate Data Science</h3>
