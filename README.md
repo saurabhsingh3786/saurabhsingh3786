@@ -1,7 +1,7 @@
 ![logo](https://github.com/saurabhsingh3786/saurabhsingh3786/blob/main/Blue%20and%20Pink%20Professional%20Business%20Strategy%20Presentation%20(1).pdf)
 
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A passionate Data Science</h3>
+<h3 align="center">A passionate Data Scienctist</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -9,11 +9,11 @@
 
 - 🔭 I worked on [Netflix Movies and TV Shows Clustering](https://colab.research.google.com/drive/1beNkrAnQR7uo_SfW2ubzf6tsVQwsuBc8?usp=sharing)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Full Stack Data Science And AI Program**
 
-- 👯 I’m looking to collaborate on **Creative Challenges**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Power BI**
+- 💬 Ask me about **Python, SQL,Statistics, Machine Learning, Power BI**
 
 - 📫 How to reach me **100rbh.singh18@gmail.com**
 
